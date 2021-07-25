@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brandon!
-- 👀 I’m interested in network administration/engineering and automation as well as looking to deepen my knowledge of cloud infrastrure and IaC
+- 👀 I’m interested in network administration/engineering and automation as well as looking to deepen my knowledge of cloud infrastrure, DevOps, and IaC
 - 🌱 I’m currently refreshing my knowledge on python and working on scripts to test programmability and automation on switches and routers
 - 💞️ I’m looking to collaborate on projects that will extend the range of network programmability to more vendors as well as projects involving DevOps practices
 and IaC/cloud infrastructures.
